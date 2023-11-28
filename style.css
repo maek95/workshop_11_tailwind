@@ -1,0 +1,35 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+body {
+  min-height: 100%;
+}
+
+
+
+/* 
+.dark .index_beams__yWcJT {
+    background-image: url(https://tailwindcss.com/_next/static/media/hero-dark@90.dba36cdf.jpg);
+    background-size: 86.125rem;
+
+}
+
+ */
+.index_beams__yWcJT {
+  background-image: url(https://tailwindcss.com/_next/static/media/hero@75.b2469a49.jpg);
+  background-size: 150rem;
+}
+
+.dark_index_beams__yWcJT {
+  background-image: url(https://tailwindcss.com/_next/static/media/hero-dark@90.dba36cdf.jpg);
+  background-size: 86.125rem;
+
+}
+
+
+
+/* .bg-grid-slate-900\/\[0\.04\] {
+  background-image: url(data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox='0 0 32 32' width='32' height='32' fill='none' stroke='rgb(15 23 42 / 0.04)'><path d='M0 .5H31.5V32'/></svg>);
+} */
